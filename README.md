@@ -16,12 +16,16 @@ In order to start this application in your pc, follow these steps-
 5.Enter Address-
 
 
-for user section : 
+For user section : 
 http://localhost:8080
+
 User Name- user
+
 Password- 123
 
-for admin section : 
+For admin section : 
 http://localhost:8080/admin
+
 Admin Name- admin
+
 Password- 123
